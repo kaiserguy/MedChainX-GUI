@@ -356,8 +356,8 @@ namespace Neo.UI
                             }
                             else
                             {
-                                string asset_name = asset.Asset.AssetType == AssetType.GoverningToken ? "NEO" :
-                                                    asset.Asset.AssetType == AssetType.UtilityToken ? "NeoGas" :
+                                string asset_name = asset.Asset.AssetType == AssetType.GoverningToken ? "MedShare" :
+                                                    asset.Asset.AssetType == AssetType.UtilityToken ? "MedToken" :
                                                     asset.Asset.GetName();
                                 listView2.Items.Add(new ListViewItem(new[]
                                 {
