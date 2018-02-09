@@ -3,22 +3,18 @@
     "Magic": 2254462286,
     "AddressVersion": 23,
     "StandbyValidators": [
-      "02bbca81c389f2f5f5719fbcc04be57eeeb783f722f2cbf543b925dd3d01b37c81",
-      "022c25d81772cfc835638dfd07ace2dbd7c17d4d2d27311f28b20f8655072e8e75",
-      "022a796711868426db6a22e48ae18f933bc62d91947808f92680f96a6a15a6aa0f",
-      "02884833159d3b94c306b05bcbb38cb061a2db4637b6e0d863e58580401b1fd9e3",
-      "0388c5b25ae088823f6c21d64a854943cff86ca0f79caff5a222bbab60682b62fd",
-      "0264f3a3c840c0cde7447791d1804f0c9ce0386455a3ea6a6b8a3a5a91952eeefa",
-      "0228fc10623b2bc4fa016cdc0204e25c4d55102c2f7b1764abcd79efb87f661f30"
+      "023efa33ab02bfdd1eba3e8a3d965a2db821b53f21640aa5f4708d3c50f661ccb9",
+      "03bff21c4ffa8feaf88bfe0e077371e99f404211cf09d00e60d19d0b499d3a4158",
+      "021e9f0025e0b60e8306f849efe8b17ef3ffff5c8d93235db83ee6dd72bb4b503a",
+      "02edb2a10135c8e0bad164a903c0c8f2d56775e8a8ba329365620a4157739a6401",
+      "034bf134bb4dd538838abf21993b328118cf726390a2d7878e0d1202cd65671775"
     ],
     "SeedList": [
-      "34.230.19.107:10333",
-      "204.236.196.90:10333",
-      "54.88.193.60:10333",
-      "107.22.10.186:10333",
-      "54.227.161.4:10333",
-      "54.161.0.186:10333",
-      "107.22.156.116:10333"
+      "seed1.medchainx.com:10333",
+      "seed2.medchainx.com:10333",
+      "seed3.medchainx.com:10333",
+      "seed4.medchainx.com:10333",
+      "seed5.medchainx.com:10333"
     ],
     "SystemFee": {
       "EnrollmentTransaction": 1000,
